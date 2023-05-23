@@ -721,4 +721,12 @@ h3 {
     text-align: left;
   }
 }
+
+.repartidores {
+  padding: 5rem 0;
+}
+.repartidores__heading {
+  text-align: center;
+  color: #455a64;
+}
 /*# sourceMappingURL=app.css.map */
