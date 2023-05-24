@@ -576,6 +576,7 @@ h3 {
 }
 .testimoniales__heading {
   text-align: center;
+  color: #455a64;
 }
 @media (min-width: 768px) {
   .testimoniales__grid {
